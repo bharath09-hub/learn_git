@@ -1,2 +1,1 @@
-this is my first file in the project
-git 
+this is my first file in the project and git hub practice
